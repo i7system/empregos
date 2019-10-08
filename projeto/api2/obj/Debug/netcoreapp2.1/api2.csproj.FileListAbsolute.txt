@@ -1,0 +1,14 @@
+C:\Users\sanch\source\repos\api1\api2\obj\Debug\netcoreapp2.1\api2.csproj.CoreCompileInputs.cache
+C:\Users\sanch\source\repos\api1\api2\obj\Debug\netcoreapp2.1\api2.AssemblyInfoInputs.cache
+C:\Users\sanch\source\repos\api1\api2\obj\Debug\netcoreapp2.1\api2.AssemblyInfo.cs
+C:\Users\sanch\source\repos\api1\api2\bin\Debug\netcoreapp2.1\api2.deps.json
+C:\Users\sanch\source\repos\api1\api2\bin\Debug\netcoreapp2.1\api2.runtimeconfig.json
+C:\Users\sanch\source\repos\api1\api2\bin\Debug\netcoreapp2.1\api2.runtimeconfig.dev.json
+C:\Users\sanch\source\repos\api1\api2\bin\Debug\netcoreapp2.1\api2.dll
+C:\Users\sanch\source\repos\api1\api2\obj\Debug\netcoreapp2.1\api2.csprojAssemblyReference.cache
+C:\Users\sanch\source\repos\api1\api2\obj\Debug\netcoreapp2.1\api2.RazorAssemblyInfo.cache
+C:\Users\sanch\source\repos\api1\api2\obj\Debug\netcoreapp2.1\api2.RazorAssemblyInfo.cs
+C:\Users\sanch\source\repos\api1\api2\obj\Debug\netcoreapp2.1\api2.RazorTargetAssemblyInfo.cache
+C:\Users\sanch\source\repos\api1\api2\bin\Debug\netcoreapp2.1\api2.pdb
+C:\Users\sanch\source\repos\api1\api2\obj\Debug\netcoreapp2.1\api2.dll
+C:\Users\sanch\source\repos\api1\api2\obj\Debug\netcoreapp2.1\api2.pdb
